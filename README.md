@@ -1,5 +1,7 @@
 # Telecom Churn Case Study
 
+Case study by - Nikita Dandriyal, Dhruv Garg , Prithvi raj Chauhan 
+
 #Business Problem Overview
 
 In the telecom industry, customers are able to choose from multiple service providers and actively
